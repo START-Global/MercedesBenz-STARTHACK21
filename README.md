@@ -1,4 +1,4 @@
-# Mercedes-Benz Hack Case
+# START Hack 2021 - Mercedes-Benz Case
 
 ### Case Introduction
 Please give a short introduction to your case.
