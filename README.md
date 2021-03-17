@@ -7,8 +7,7 @@ The “traditional” Mercedes-Benz dealerships are now fully digital. Even toda
 Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
-[Musik im Showroom_finale Version.pdf](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6156919/Musik.im.Showroom_finale.Version.pdf)
+You can find the deep-dive slides [here](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6156919/Musik.im.Showroom_finale.Version.pdf).
 
 
 ### Further Information
