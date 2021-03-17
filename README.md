@@ -15,11 +15,11 @@ Give as much context as possible, in order to give your coders a head start!
 
 ### Resources
 To help you with the case we can point you towards the following resources: 
-## Daimler Global Media Site
+#### Daimler Global Media Site
 You can find the official Global Media Site of Daimler AG [here](https://media.daimler.com/marsMediaSite/de/instance/ko/Start.xhtml?oid=4836258). It contains a lot of 
-## Mercedes-Benz Switzerland Youtube Channel
+#### Mercedes-Benz Switzerland Youtube Channel
 asd fasd f
-## Other external Resources
+#### Other external Resources
 asdf sdf asd
 
 ### Judging Criteria
