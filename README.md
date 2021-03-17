@@ -1,10 +1,7 @@
 # START Hack 2021 - Mercedes-Benz Case
 
 ### Case Introduction
-Please give a short introduction to your case.
-What is the problem you are solving?
-What do you expect from the winning team?
-Are you planning on further developing this project after the START Hack?
+The “traditional” Mercedes-Benz dealerships are now fully digital. Even today, they offer customers more than just the opportunity to buy a vehicle. The dealership of the future should surprise customers, offer individualised highlights and, ideally, appeal to all their senses in an exciting way. With that in mind, we also want our dealerships to offer a high-quality brand and buying experience in terms of sound. We’re looking for an innovative sound control system that will wow our customers, offer them magical moments and go far beyond a normal media player.
 
 ### Case Pitch
 Insert your Pitch Video or Slides here
