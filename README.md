@@ -26,7 +26,6 @@ We are following the standard Judging Criteria of START Hack:
 
 ### Point of Contact
 Please reach out the following contacts: 
-* For business-related questions: Christian (XXX contact info todo XXX)
 * For technical questions: Philipp (Discord: Phil_#2132)
 
 ### Time Slots at the Booth
