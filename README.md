@@ -16,7 +16,13 @@ To help you with the case we can point you towards the following resources:
 * __Other external Resources:__ Feel free to use 3rd party services.
 
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
+We are following the standard Judging Criteria of START Hack: 
+* __Complexity & Technical Sophistication:__ How technically impressive is the solution? Were any nifty techniques, algorithms or combination of different components used? Are appropriate services, technologies and infrastructure applied (e.g. cloud computing, AI, databases)?
+* __Design:__ Did the team put thought into the user experience? How well designed is the interface? Is the user experience intuitive? Depending on the project, you might have to look at how beautiful the graphics are, how good the human-computer interaction is or how well the flow of the solution is designed.
+* __Viability:__ How significant and relevant is the prototype's use case to the tackled business problem? Is it something people would actually use? Does it fulfill a real need people have?
+* __Feasibility:__ Is the hack usable in its current state? Did the team achieve everything they wanted? Could the prototype scale as a real solution with multiple users?
+* __Creativity & Innovation:__ How creative or innovative is the idea behind the prototype? How does the team deal with the awareness of other attempts that try to solve the same problem and how did the team position their hackathon entry? Does it pull something off that hasn’t been pulled off before?
+* __Presentation:__ Was the team able to explain what the prototype actually did? Did the presentation and demo show how their hack has fulfilled the judging criteria? Did the team communicate the essence of why they did what they did and why it was important?
 
 ### Point of Contact
 Please reach out the following contacts: 
