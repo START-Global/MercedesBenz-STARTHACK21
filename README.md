@@ -4,11 +4,11 @@
 The “traditional” Mercedes-Benz dealerships are now fully digital. Even today, they offer customers more than just the opportunity to buy a vehicle. The dealership of the future should surprise customers, offer individualised highlights and, ideally, appeal to all their senses in an exciting way. With that in mind, we also want our dealerships to offer a high-quality brand and buying experience in terms of sound. We’re looking for an innovative sound control system that will wow our customers, offer them magical moments and go far beyond a normal media player.
 
 ### Case Pitch
-Insert your Pitch Video or Slides [here](https://user-images.githubusercontent.com/34119356/111480600-75d5ea00-8732-11eb-8016-e40db5f8ab3f.mp4).
+Insert your Pitch Video or Slides [here](https://user-images.githubusercontent.com/34119356/111480600-75d5ea00-8732-11eb-8016-e40db5f8ab3f.mp4){:target="_blank"}.
 
 ### Deep Dive Slides
-You can find the deep-dive slides [here](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6156919/Musik.im.Showroom_finale.Version.pdf).
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+You can find the deep-dive slides [here](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6156919/Musik.im.Showroom_finale.Version.pdf){:target="_blank"}.
+
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
