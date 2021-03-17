@@ -8,7 +8,7 @@ Insert your Pitch Video or Slides [here](https://user-images.githubusercontent.c
 
 ### Deep Dive Slides
 You can find the deep-dive slides [here](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6156919/Musik.im.Showroom_finale.Version.pdf).
-
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
