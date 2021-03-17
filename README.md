@@ -30,4 +30,5 @@ We are available to answer your questions during the following time slots:
 * 21.03.2021, 08:00 - 09:00 CET
 
 ### Prize
-Let the participants know what will be expecting the winning Team!
+Each member of the winning team will be awarded with a Dji Mini 2 Fly More drone set. 
+Additionally, we aim to further collaborate with any team in the contest if your idea is feasible. Maybe you will find your product in rolled out to our dealerships soon!
