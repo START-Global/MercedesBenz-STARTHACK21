@@ -9,27 +9,25 @@ You can find our Pitch Video [here](https://user-images.githubusercontent.com/34
 ### Deep Dive Slides
 You can find the Deep Dive Slides [here](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6156919/Musik.im.Showroom_finale.Version.pdf).
 
-### Further Information
-Insert any further information about the hack case, the topic and related projects.
-Give as much context as possible, in order to give your coders a head start!
-
 ### Resources
 To help you with the case we can point you towards the following resources: 
 * __Daimler Global Media Site:__ You can find the official Global Media Site of Daimler AG [here](https://media.daimler.com/marsMediaSite/en/instance/ko/Start.xhtml?oid=4836258). It contains a wide variety of content, such as images and logos. 
-
-#### Mercedes-Benz Switzerland Youtube Channel
-asd fasd f
-#### Other external Resources
-asdf sdf asd
+* __Mercedes-Benz Switzerland Youtube Channel:__ You can find the official Youtube Channel of Mercedes-Benz Switzerland [here](https://www.youtube.com/channel/UCUd-IsZy32b36jiPVj7ogng).
+* __Other external Resources:__ Feel free to use 3rd party services.
 
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
 ### Point of Contact
-List all available mentors here.
+Please reach out the following contacts: 
+* For business-related questions: Christian (XXX contact info todo XXX)
+* For technical questions: Philipp (Discord: Phil_#2132)
 
 ### Time Slots at the Booth
-List the expected times of availability at the booth here.
+We are available to answer your questions during the following time slots:
+* 19.03.2021, 23:00 - 00:00 CET
+* 20.03.2021, 10:00 - 11:00 CET
+* 21.03.2021, 08:00 - 09:00 CET
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
