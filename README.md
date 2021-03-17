@@ -8,6 +8,8 @@ Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
 Insert materials from your Deep Dives here
+[Musik im Showroom_finale Version.pdf](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6156919/Musik.im.Showroom_finale.Version.pdf)
+
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
