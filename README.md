@@ -25,7 +25,7 @@ We are following the standard Judging Criteria of START Hack:
 * __Presentation:__ Was the team able to explain what the prototype actually did? Did the presentation and demo show how their hack has fulfilled the judging criteria? Did the team communicate the essence of why they did what they did and why it was important?
 
 ### Point of Contact
-You can reach Philipp on Discord (Phil_#2132).
+You can reach Philipp on Discord (Mercedes-Benz Phil#2132).
 
 ### Time Slots at the Booth
 We are available to answer your questions during the following time slots:
