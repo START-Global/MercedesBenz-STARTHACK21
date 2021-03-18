@@ -9,6 +9,15 @@ You can find our Pitch Video [here](https://user-images.githubusercontent.com/34
 ### Deep Dive Slides
 You can find the Deep Dive Slides [here](https://github.com/START-Global/MercedesBenz-STARTHACK21/files/6158467/Musik.im.Showroom_finale.Version.pdf).
 
+### Further Information
+* In general, your product should handle the audio-related part of the dealership experience. This can be done by generating sounds, playing music obtained from a 3rd party service or from predefined playlists, or in other ways. The only thing important is that there is no silence. 
+* Your product should also take into account that there are different audio zones in a showroom (waiting area, lounge, different vehicle segments). 
+* As mentioned in the Deep Dive Slides, the hardware in our showrooms (audio devices and screens) is designed to run HTML5-based content. For the scope of this case you can assume that what is shown in a browser window will be displayed on a tablet or screen, and the audio output will be redirected to the speakers installed in the showroom. To handle multiple devices at once, run multiple browser windows. 
+* If you wish to do so you can also implement a native app to be run in kiosk mode on the iPads in the showroom. However, this is not a requirement. 
+* You do not have to worry about interfaces to our backend services (such as vehicle information and additional data), we will address the specifics of these API's with you after the challenge once the decision has been made to further explore your idea. 
+
+
+
 ### Resources
 To help you with the case we can point you towards the following resources: 
 * __Daimler Global Media Site:__ You can find the official Global Media Site of Daimler AG [here](https://media.daimler.com/marsMediaSite/en/instance/ko/Start.xhtml?oid=4836258). It contains a wide variety of content, such as images and logos. 
